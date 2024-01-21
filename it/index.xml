@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alessio Marchetti</title>
-    <link>https://teiolass.gitlab.io/it/</link>
+    <link>https://teiolass.github.io/it/</link>
     <description>Recent content on Alessio Marchetti</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://teiolass.gitlab.io/it/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://teiolass.github.io/it/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -430,8 +430,13 @@ footer {
     display: flex;
     justify-content: space-between;
     margin-top: 0;
-    border-bottom: 1px solid;
-    border-color: #bbb;
+    margin-left: 0pt;
+    /* border-bottom: 1px solid; */
+    /* border-color: #bbb; */
+}
+
+.summary p {
+    margin: 0;
 }
 
 .portrait {
@@ -499,3 +504,4 @@ div .language-selection > a {
     padding-right: 1em;
     margin: 0;
 }
+
