@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://teiolass.gitlab.io/</loc>
+    <lastmod>2023-12-11T21:58:50+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://teiolass.gitlab.io/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://teiolass.gitlab.io/"
+                />
+  </url><url>
+    <loc>https://teiolass.gitlab.io/posts/</loc>
+    <lastmod>2023-12-11T21:58:50+01:00</lastmod>
+  </url><url>
+    <loc>https://teiolass.gitlab.io/posts/second/</loc>
+    <lastmod>2023-12-11T21:58:50+01:00</lastmod>
+  </url><url>
+    <loc>https://teiolass.gitlab.io/posts/third/</loc>
+    <lastmod>2023-12-11T21:31:16+01:00</lastmod>
+  </url><url>
+    <loc>https://teiolass.gitlab.io/posts/post1/</loc>
+    <lastmod>2023-12-11T21:31:14+01:00</lastmod>
+  </url>
+</urlset>
